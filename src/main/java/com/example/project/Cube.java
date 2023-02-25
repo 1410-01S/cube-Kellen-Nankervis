@@ -1,3 +1,5 @@
+//Assignment 2 for CS 1410 - Rubik's Cube
+
 package com.example.project;
 
 import java.io.BufferedReader;
